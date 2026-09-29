@@ -1,0 +1,10 @@
+torch
+transformers==4.44.2
+streamlit
+pandas
+numpy<2.0
+scipy<1.14.0
+plotly
+joblib
+scikit-learn
+accelerate

@@ -1,0 +1,7 @@
+UI/enervision_env/
+UI/enervision2_env/
+UI/.agents/
+UI/HomecCleaned.csv
+.DS_Store
+__pycache__/
+*.pyc
